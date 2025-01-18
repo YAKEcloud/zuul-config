@@ -2,7 +2,6 @@
 - project:
     name: yakecloud/zuul-config
     default-branch: main
-    merge-mode: "squash-merge"
     check:
       jobs:
         - noop
